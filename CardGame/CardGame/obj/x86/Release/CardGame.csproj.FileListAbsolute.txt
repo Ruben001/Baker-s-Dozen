@@ -1,0 +1,17 @@
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\bin\Release\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\bin\Release\CardGame.pdb
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\CardGame.GameBoard.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\CardGame.Properties.Resources.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Release\CardGame.pdb
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.exe
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.pdb
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\bin\Release\CardGame.exe
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\bin\Release\CardGame.pdb
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.csprojResolveAssemblyReference.cache
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.GameBoard.resources
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.Properties.Resources.resources
+C:\Users\Ruben\Desktop\CardGame Final\CardGame\CardGame\obj\x86\Release\CardGame.csproj.GenerateResource.Cache

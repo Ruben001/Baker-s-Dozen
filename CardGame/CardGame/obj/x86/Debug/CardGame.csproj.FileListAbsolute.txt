@@ -1,0 +1,28 @@
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\CardGame.Properties.Resources.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\CardGame.pdb
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\CardGame.GameBoard.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.571.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.756.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.895.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.894.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.984.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\CardGame.pdb
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\bin\Debug\CardGame.exe
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\bin\Debug\CardGame.pdb
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\CardGame.GameBoard.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\CardGame.Properties.Resources.resources
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.571.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.read.895.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.756.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.894.tlog
+C:\Users\Ruben\Desktop\SPSU Fall 2013\Software Engineering\Project\CardGame 7.3\CardGame\CardGame\obj\x86\Debug\GenerateResource.write.984.tlog
